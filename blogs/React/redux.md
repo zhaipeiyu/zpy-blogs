@@ -1,7 +1,7 @@
 ---
 title: redux
 date: 2019-07-21
-author: zhaipeixi
+author: zpyyyy
 sidebar: 'auto'
 tags:
  - React

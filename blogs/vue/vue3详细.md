@@ -1,7 +1,7 @@
 ---
 title: vue详细
 date: 2021-8-6
-author: zhaipeixi
+author: zpyyyy
 sidebar: 'auto'
 tags:
  - vue3

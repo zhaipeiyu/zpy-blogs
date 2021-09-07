@@ -1,7 +1,7 @@
 ---
 title: mvc和mvvm
 date: 2019-8-21
-author: zhaipeixi
+author: zpyyyy
 sidebar: 'auto'
 tags:
  - vue

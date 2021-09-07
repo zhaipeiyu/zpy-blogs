@@ -1,7 +1,7 @@
 ---
 title: vuex
 date: 2019-10-21
-author: zhaipeixi
+author: zpyyyy
 sidebar: 'auto'
 tags:
  - vue

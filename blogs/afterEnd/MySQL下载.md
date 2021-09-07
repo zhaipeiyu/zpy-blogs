@@ -1,7 +1,7 @@
 ---
 title: MySQL下载及启动
 date: 2021-5-10
-author: zhaipeixi
+author: zpyyyy
 sidebar: 'auto'
 tags:
  - MySQL

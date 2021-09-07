@@ -1,7 +1,7 @@
 ---
 title: http缓存
 date: 2019-1-10
-author: zhaipeixi
+author: zpyyyy
 sidebar: 'auto'
 tags:
  - http

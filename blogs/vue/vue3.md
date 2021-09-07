@@ -1,7 +1,7 @@
 ---
 title: vue3
 date: 2019-09-21
-author: zhaipeixi
+author: zpyyyy
 sidebar: 'auto'
 tags:
  - vue3

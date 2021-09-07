@@ -1,7 +1,7 @@
 ---
 title: async/await
 date: 2019-01-10
-author: zhaipeixi
+author: zpyyyy
 sidebar: 'auto'
 tags:
  - js

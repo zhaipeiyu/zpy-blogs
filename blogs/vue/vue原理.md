@@ -1,7 +1,7 @@
 ---
 title: vue原理
 date: 2019-12-21
-author: zhaipeixi
+author: zpyyyy
 sidebar: 'auto'
 tags:
  - vue

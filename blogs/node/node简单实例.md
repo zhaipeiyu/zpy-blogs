@@ -1,7 +1,7 @@
 ---
 title: node简单实例
 date: 2019-3-12
-author: zhaipeixi
+author: zpyyyy
 sidebar: 'auto'
 tags:
  - node
